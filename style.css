@@ -1,0 +1,31 @@
+body{
+    font: 14px sans-serif;
+}
+
+
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+
+.wrapper{
+    width: 350px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    opacity: 0.8;
+    filter: alpha(opacity=60);
+}
+
+.quiz-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+
